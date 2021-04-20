@@ -1,0 +1,70 @@
+html{
+    height: 100%;
+}
+body{
+    background-color: #2f3035;
+    background-image: url(img/ReynoldsWallenberg1440x900.jpg);
+    background-size: cover; 
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.container{
+    margin-left: auto;
+    margin-right: auto;
+    width: 1024px;
+}
+header{
+    height: 118px; 
+    text-align: center;
+}
+nav{
+    background-color: rgba(0, 0, 0, 0.295);
+    text-align: center;
+    padding-top: 14px;
+    padding-bottom: 14px;
+}
+main{
+    height: 500px;  
+    text-align: center;
+    padding-top: 80px;
+    padding-left: 240px;
+    padding-right: 240px;
+}
+footer{
+    background-color: rgba(0, 0, 0, 0.37);
+    height: 30px;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+
+}
+h1{
+    font-Size: 64px;
+    color: green;
+    font-family: cursive;
+}
+p{
+    font-Size: 18px;
+    color: green;
+    font-family: Arial, Helvetica, sans-serif;
+}
+a{
+    font-size: 15px;
+    color: pink;
+    font-family: Arial, Helvetica, sans-serif;
+}
+nav a{
+    text-decoration: none;
+    font-size: 18px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+footer p{
+    height: 25px;
+    text-align: center;
+    padding-top: 25px;
+    padding-bottom: 25px
+}
+.maps{
+    padding-bottom: 50px;
+}
